@@ -43,8 +43,7 @@ It is a platform that combines education, real-world eco challenges, and game me
 The platform can be developed as a web application with HTML, CSS, JavaScript as the frontend technologies. The frontend can be made more appealing with the help of frameworks like React.js or Bootstrap. The backend can be developed with Node.js with the help of Express.js or Python with Django/Flask as the frameworks. The database can be MySQL or MongoDB for the purpose. There are various tools available for authentication with the help of Firebase.
 
 The development begins with the analysis of the requirements and the design of the system. The modules to be developed are identified. The modules include the login module, eco-challenges, quizzes, leaderboard, etc. Then the frontend, backend, and database are developed. The gamification elements like points, badges, levels are incorporated to make the learning experience engaging. Finally, the system is deployed for the students to use.
-
-
+"C:\Users\acer\Downloads\technical approach for SIH.png"
 ## Feasibility and Viability
 The platform is feasible since it can be implemented using common web programming languages like HTML, JavaScript, etc. Also, most college students already own a smartphone or a computer that has internet connectivity.
 

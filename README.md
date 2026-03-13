@@ -38,10 +38,12 @@ The proposed solution is a gamified web platform that teaches students about env
 The students are not aware of or motivated to engage in sustainable practices. This platform solves this problem by making environmental education a fun and engaging process through gamification. Gamification motivates students to engage actively in eco-friendly practices and learn about sustainability in a fun way instead of through conventional teaching methods.
 
 It is a platform that combines education, real-world eco challenges, and game mechanics, with the aim of promoting eco-friendly behaviors among students. It does this by incorporating features such as eco-points, leaderboards, and a simulation of an eco-city, among others, which make environmental education more interactive for the students. This makes it a unique platform for teaching environmental concepts, as it does not only educate students on environmental concepts, but it also challenges them to apply these concepts in their daily lives
+
 ## Technical Approach
 The platform can be developed as a web application with HTML, CSS, JavaScript as the frontend technologies. The frontend can be made more appealing with the help of frameworks like React.js or Bootstrap. The backend can be developed with Node.js with the help of Express.js or Python with Django/Flask as the frameworks. The database can be MySQL or MongoDB for the purpose. There are various tools available for authentication with the help of Firebase.
 
 The development begins with the analysis of the requirements and the design of the system. The modules to be developed are identified. The modules include the login module, eco-challenges, quizzes, leaderboard, etc. Then the frontend, backend, and database are developed. The gamification elements like points, badges, levels are incorporated to make the learning experience engaging. Finally, the system is deployed for the students to use.
+
 
 ## Feasibility and Viability
 The platform is feasible since it can be implemented using common web programming languages like HTML, JavaScript, etc. Also, most college students already own a smartphone or a computer that has internet connectivity.

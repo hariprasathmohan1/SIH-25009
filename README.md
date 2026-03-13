@@ -56,4 +56,4 @@ The platform has the ability to enhance environmental awareness among college st
 The solution also has environmental benefits since it encourages individuals to engage in sustainable activities such as recycling and saving energy. The solution also has social benefits since it encourages individuals to engage in teamwork and community participation, and educational benefits since it improves students’ knowledge regarding environmental protection.
 
 ## Research and References
-
+https://www.sciencedirect.com/science/article/pii/S2210422425000644
